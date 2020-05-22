@@ -204,3 +204,4 @@ OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 
 GAF = "countries/German-Africa.txt"
+GAS = "countries/German-Asia.txt"

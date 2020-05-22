@@ -8,6 +8,10 @@ GAF = {
 	color = { 95 175 200 }
 	color_ui = rgb { 255 0 0 }
 }
+GAS = {
+	color = { 95 175 200 }
+	color_ui = rgb { 255 0 0 }
+}
 ENG = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 255 73 121 }
