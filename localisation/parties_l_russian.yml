@@ -1,0 +1,15 @@
+﻿l_russian:
+ conservatism:0 "Консерватизм"
+ conservatism_desc:0 "Сохранение статуса-кво"
+
+ monarchism:0 "Монархизм"
+ monarchism_desc:0 "Монархия"
+
+ sdemocracy:0 "Демократия"
+ rdemocracy_desc:0 "Рыночная демократия"
+
+ sdemocracy:0 "Соцдем"
+ sdemocracy_desc:0 "Социал-демократия"
+
+ fascism:0 "Фашизм"
+ fascism_desc:0 "Фашизм"
