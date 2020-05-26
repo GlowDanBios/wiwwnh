@@ -205,3 +205,6 @@ COR = "countries/Corsica.txt"
 
 GAF = "countries/German-Africa.txt"
 GAS = "countries/German-Asia.txt"
+PSA = "countries/Pacific-States.txt"
+DSA = "countries/Democratic-States.txt"
+CSA = "countries/Confederative-States.txt"
